@@ -10,8 +10,6 @@ sites:
     url: https://app.pm2.io
   - name: WE-BT16 Discord Bot (API)
     url: https://834fc166c81e.ngrok.io
-  - name: WE-BT16 Discord Bot (WebHook)
-    url: https://eyes-syndrome-horizontal-shaw.trycloudflare.com
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
