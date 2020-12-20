@@ -1,6 +1,6 @@
-# [📈 Live Status](https://lucaslah.github.io/uptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://cssudii.github.io/uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [lucaslah](https://cssudii.tk), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [CSSUDII](https://cssudii.tk), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/koj-co/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -22,7 +22,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://lucaslah.github.io/uptime)
+[**Visit our status website →**](https://cssudii.github.io/uptime)
 
 ## 📄 License
 
