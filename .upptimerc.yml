@@ -4,17 +4,15 @@ repo: uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: WE-BT16 Website
+    url: https://we-bt16.netlify.app
+  - name: PM2
+    url: https://app.pm2.io
+  - name: WE-BT16 Discord Bot (API)
+    url: https://834fc166c81e.ngrok.io
+  - name: WE-BT16 Discord Bot (WebHook)
+    url: https://eyes-syndrome-horizontal-shaw.trycloudflare.com
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # Uncomment the following line if you don't have a custom domain and add your repo name
