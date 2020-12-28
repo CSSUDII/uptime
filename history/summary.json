@@ -40,19 +40,19 @@
     "url": "https://834fc166c81e.ngrok.io",
     "icon": "https://favicons.githubusercontent.com/834fc166c81e.ngrok.io",
     "slug": "we-bt-16-discord-bot-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1395,
-    "timeDay": 443,
-    "timeWeek": 1099,
-    "timeMonth": 1395,
-    "timeYear": 1395,
+    "status": "up",
+    "uptime": "90.00%",
+    "uptimeDay": "20.44%",
+    "uptimeWeek": "88.63%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "90.00%",
+    "time": 1318,
+    "timeDay": 453,
+    "timeWeek": 1029,
+    "timeMonth": 1318,
+    "timeYear": 1318,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 1146
     }
   }
 ]
