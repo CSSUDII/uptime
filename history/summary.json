@@ -22,9 +22,9 @@
     "url": "https://app.pm2.io",
     "icon": "https://favicons.githubusercontent.com/app.pm2.io",
     "slug": "pm-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 147,
     "timeMonth": 149,
     "timeYear": 149,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-16": 0
+    }
   },
   {
     "name": "WE-BT16 Discord Bot (API)",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/834fc166c81e.ngrok.io",
     "slug": "we-bt-16-discord-bot-api",
     "status": "up",
-    "uptime": "96.95%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "96.95%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "97.02%",
     "time": 799,
     "timeDay": 485,
     "timeWeek": 477,
