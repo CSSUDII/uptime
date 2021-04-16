@@ -8,8 +8,8 @@ sites:
     url: https://we-bt16.netlify.app
   - name: PM2
     url: https://app.pm2.io
-  - name: WE-BT16 Discord Bot (API)
-    url: https://834fc166c81e.ngrok.io
+  - name: WE-BT16 API
+    url: https://api.cssudii.tk
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
